@@ -2,5 +2,5 @@ Project logbook for Generative AI research study.
 Week 1: Repository and folder structure set up by reviewer.
 Week 2: Kiki joined the team; Robyn added the Developer 2 update for the same-line merge-conflict exercise.
 Week 3: Developer 2 added a progress note to practise branch-based collaboration and pull request review.
-Week 4: 
-Week 5:
+Week 4: Developer 2 added an independent Week 4 update to practise resolving a same-line merge conflict with Developer 1.
+Week 5: Developer 2 documented the next collaboration steps: review pull requests, preserve both developers' contributions, and synchronise the local repository after merging.
